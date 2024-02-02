@@ -38,6 +38,7 @@ git clone https://github.com/mpineal/mp-sms-bomber/
 **Step 1:** open the src.php
 
 **Step 2:** edit the black list number input your number
+----------------------------------------------------------
 ![screenshot](./assets/img/black.png)
 
 ## Features

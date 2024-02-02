@@ -41,7 +41,7 @@ git clone https://github.com/mpineal/mp-sms-bomber/
 - more api
 ## Preview
 
-![screenshot](./asset/img/pic.png)
+![screenshot](./assets/img/pic.png)
 
 ### Usage
 
